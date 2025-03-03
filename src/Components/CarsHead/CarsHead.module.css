@@ -1,0 +1,6 @@
+.h2{
+    background-color: var(--template-color-main);
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
