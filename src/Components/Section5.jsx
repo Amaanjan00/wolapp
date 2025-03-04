@@ -11,7 +11,7 @@ function Section5(){
         {
             carname: "Sunny 2020",
             carprice: "AED 1550/month",
-            carinfo: "dasdas",
+            carinfo: "Fuel Efficient",
             img: sunny2020
         },
         {
